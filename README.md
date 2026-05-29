@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cloud native java applications with spring boot
+- 🫯 I'm currently interested in performance engineering and software architecture
+- 🌱 I’m currently learning [kafka](https://learning.oreilly.com/library/view/kafka-the-definitive/9781492043072/) and [systems performance](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
+- 👯 I’m looking to collaborate on clean and minimal solutions that offer some degree of signal in the vast internet
+- 🤔 I’m looking for help with AI tokens
+- 💬 Ask me about helping you on clean and minimal solutions that _you_know_the_rest_.
+- - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/albihasani94/) or say [hi@albinhasani.net](mailto:hi@albinhasani.net)
+- ⚡ Fun fact: This is probably my favorite repo on the whole internet: https://github.com/kelseyhightower/nocode
+
 <!--
 **albihasani94/albihasani94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
