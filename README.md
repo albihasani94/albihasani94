@@ -4,7 +4,7 @@
 - 🌱 I’m looking to contribute to clean and minimal solutions that offer some degree of signal in the vast internet
 - 🫯 I'm currently interested in patterns of distributed systems and [performance engineering](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
 - ⚡ Fun fact: This is probably my favorite [repo](https://github.com/kelseyhightower/nocode) on this site
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/albihasani94/) or say [hi@albinhasani.net](mailto:hi@albinhasani.net) or let's exchange our [reads](https://www.goodreads.com/user/show/9618785-albin-hasani)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/albihasani94/) or say [hi@albinhasani.net](mailto:hi@albinhasani.net) or follow my [reads](https://www.goodreads.com/user/show/9618785-albin-hasani)
 
 <!--
 **albihasani94/albihasani94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
