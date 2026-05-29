@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cloud native java applications and [deployment](https://github.com/albihasani94/deployment) practices with spring boot
+- 🔭 I’m currently working on cloud native java applications and deployment practices with spring boot
 - 🌱 I’m looking to collaborate on clean and minimal solutions that offer some degree of signal in the vast internet
 - 🫯 I'm currently interested in software architecture patterns and [performance engineering](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
-- 🤔 I’m looking for help with AI tokens
 - ⚡ Fun fact: This is probably my favorite repo on the whole [internet](https://github.com/kelseyhightower/nocode)
-- 💬 Ask me about helping you on clean and minimal solutions that (_you_now_know_the_rest_).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/albihasani94/) or say [hi@albinhasani.net](mailto:hi@albinhasani.net)
 
 <!--
