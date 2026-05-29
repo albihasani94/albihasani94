@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cloud native [spring boot](https://github.com/albihasani94/licensing-service) applications and [deployment](https://github.com/albihasani94/deployment) practices
+- 🔭 I’m currently working on cloud native java applications and [deployment](https://github.com/albihasani94/deployment) practices with spring boot
 - 🫯 I'm currently interested in software architecture patterns and performance engineering
 - 🌱 I’m currently learning [systems performance](https://www.brendangregg.com/systems-performance-2nd-edition-book.html) and [kafka](https://learning.oreilly.com/library/view/kafka-the-definitive/9781492043072/)
 - 👯 I’m looking to collaborate on clean and minimal solutions that offer some degree of signal in the vast internet
