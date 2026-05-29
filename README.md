@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on cloud native java applications and [deployment](https://github.com/albihasani94/deployment) practices with spring boot
-- 🌱 I’m looking to collaborate on clean and minimal solutions that offer some degree of signal in the vast internet
+- 🌱 I’m looking to contribute to clean and minimal solutions that offer some degree of signal in the vast internet
 - 🫯 I'm currently interested in patterns of distributed systems and [performance engineering](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
 - ⚡ Fun fact: [This](https://github.com/kelseyhightower/nocode) is probably my favorite repo on this site
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/albihasani94/) or say [hi@albinhasani.net](mailto:hi@albinhasani.net)
