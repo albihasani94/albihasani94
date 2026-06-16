@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on cloud native Java applications and deployment practices with Spring Boot
 - 🌱 I’m looking to contribute to clean and minimal solutions that offer some degree of signal in the vast internet
 - 🫯 I'm currently interested in patterns of distributed systems and performance engineering
-- ⚡ Fun fact: This is probably my favorite repository on this site: https://github.com/kelseyhightower/nocode
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/albihasani94/) or say [hi@albinhasani.net](mailto:hi@albinhasani.net) or follow my [reads](https://www.goodreads.com/user/show/9618785-albin-hasani)
 
 <!--
