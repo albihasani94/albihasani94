@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on cloud native Java applications and deployment practices w/ Spring Boot
 - 🌱 I’m looking to contribute to projects that offer some degree of signal in the vast internet
 - 🫯 I'm currently interested in patterns of distributed systems and performance engineering
-- 📫 How to reach me: Good old [Twitter](https://x.com/albihasani94), [Linkedin](https://www.linkedin.com/in/albihasani94/), or [say hi](mailto:hi@albinhasani.net)
+- 📫 How to reach me: Good old [Twitter](https://x.com/albihasani94), [Linkedin](https://www.linkedin.com/in/albihasani94/), or [say hello](mailto:hi@albinhasani.net)
 - ⚡ You can also stop by my personal [website](https://albinhasani.net) or check out my [reading list](https://albinhasani.net/reading/)
 
 <!--
